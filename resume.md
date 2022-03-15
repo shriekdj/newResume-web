@@ -4,11 +4,11 @@
 ### Graduate of B.B.A.(Computer Application);
 
 <address>
-Lives In : Adarshnagar, Ward No. 1,
-  Shrirampur, Maharashtra, Pin 413709
-Phone    : <a href="tel:8237593722">+918237593722</a>
-Email    : <a href="mailto:shrikantdhayaje@gmail.com">shrikantdhayaje@gmail.com</a>
-Website : [https://shriekdj.github.io](https://shriekdj.github.io/)
+Lives In : Adarshnagar, Ward No. 1,<br />
+Shrirampur, Maharashtra, Pin 413709<br />
+Phone    : <a href="tel:8237593722">+918237593722</a><br />
+Email    : <a href="mailto:shrikantdhayaje@gmail.com">shrikantdhayaje@gmail.com</a><br />
+Website : <a href="https://shriekdj.github.io/" >https://shriekdj.github.io</a>
 </address>
 
 ### PROFILE
@@ -16,7 +16,7 @@ I Like to Build the Web Based Software Tools As Per Requirement. In My Free Time
 
 ### EXPERIENCE
 #### TBSS/Conneqt Business Solutions, Shrirampur, Connected to Pune Branch
-__Customer Care Executive & Sr. Customer Care Executive__
+*Customer Care Executive & Sr. Customer Care Executive*
 MARCH 2018 - JULY 2021
 - Professional Experience of Working In Actual Office.
 - Learned to Communicate and Work as a Team.
@@ -25,8 +25,8 @@ MARCH 2018 - JULY 2021
 - Used Business Tools Like **Oracle Siebel** and **OpenOffice**.
 
 #### Jai Jalaram Enterprises, Shrirampur,
-Under Individual Distributer(Kamlesh Thakkar)
-__Data Entry Operator & Accountant__
+Under Individual Distributer(Kamlesh Thakkar)<br />
+*Data Entry Operator & Accountant*<br />
 SEPTEMBER 2021 - MARCH 2022
 - Experience Under the Individual Sun Direct DTH Distributor Named Mr. Kamlesh Thakkar
 - Used Billing Software Named **Vyaapar**.
@@ -34,5 +34,8 @@ SEPTEMBER 2021 - MARCH 2022
 
 ### EDUCATION
 #### Graduate of B.B.A.(Computer Application)
-__C.D. Jain College of Commerce Affiliated to Savitribai Phule Pune University__
+*C.D. Jain College of Commerce Affiliated to Savitribai Phule Pune University*<br />
 2017 - 2021
+- Hands On Experience With Working On Linux Based OS
+  - Like Ubuntu, Mint
+- Worked On C, C++, Java, Web ( HTML, CSS, JS, Java, PHP, etc.,)
