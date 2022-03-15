@@ -1,3 +1,4 @@
-a {
+a, a:visited, a:hover, a:active {
+  color: inherit;
   overflow-wrap: break-word;
 }
